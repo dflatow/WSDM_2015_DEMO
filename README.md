@@ -2,7 +2,7 @@
 
 see wiki for instructions:
 
-    https://github.com/dflatow/WSDM_2015_DEMO/wiki
+    https://github.com/dflatow/WSDM_2015_DEMO/wiki/TOY_DEMO
 
 find paper in repo above
      
